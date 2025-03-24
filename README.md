@@ -5,7 +5,7 @@
 <a href="https://github.com/ADVindiancoder/COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-5"><img src="https://www.llanhealthcare.co.uk/wp-content/uploads/coronavirus-4914026_1920.jpg"></a>
 
 # Table of Contents:
-## 🌟 Introduction
+## 🌟Introduction
 
 - 🔥 Heatmap displaying confirmed cases, recoveries, and fatalities.
 - 🌎 Analysis of the affected countries.
@@ -81,9 +81,9 @@
 - 🏥 Hospital bed requirements vs. confirmed cases.
 - 📆 Projecting when states might face bed shortages.
 - 🏥 Statewise analysis for crisis prevention.
-## 🌟 Conclusion
+## 🌟 Conclusions
 
-### Note: The data used in this project is accurate up to November 15, 2020.
+### Note: The data used in this project is accurate up to November 18, 2020.
 
 ## 🌟 Contributors of this Research Work
 
