@@ -11,7 +11,7 @@
 - 🌎 Analysis of the affected countries.
 - 📈 Percentage of confirmed cases per country.
 - 🏆 Top 5 countries with the highest number of confirmed cases.
-##  🌟 China: The Initial Epicenter of the Pandemic
+##  🌟 China: The Initial Epicenter of the Pandemic.
 
 - 📊 Curve depicting the total number of confirmed, recovered, and death cases.
 - 📈 Statistics on daily increases in confirmed and death cases.
